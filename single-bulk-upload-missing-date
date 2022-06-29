@@ -1,0 +1,2 @@
+type,id,unit_id,date,item_id,quantity,amount,memo
+owner,3,10,,10,1,1,Missing Date Single
